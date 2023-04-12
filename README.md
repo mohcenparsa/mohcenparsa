@@ -57,7 +57,7 @@
 </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/kazim-kayhan) 
+![Profile views](https://gpvc.arturio.dev/kazim-kayhan)
 ![Codewars Badge](https://www.codewars.com/users/kazim-kayhan/badges/small)
 
- <a href="https://app.daily.dev/kazimkayhan" align="center"><img src="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/devcard.svg" alt="Kazim Kayhan's Dev Card"/></a>
+<a href="https://app.daily.dev/mohcen-parsa" align="center"><img src="https://github.com/mohcenparsa/mohcenparsa/blob/main/devcard.svg" alt="Mohcen Parsa's Dev Card"/></a>
