@@ -3,7 +3,7 @@
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20MOHCEN%20PARSA&fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"> 
 </p>
 
-### Tools that I use:
+### Tools I use:
 
 <p align="left">  
  <a href="https://github.com/kazim-kayhan">
