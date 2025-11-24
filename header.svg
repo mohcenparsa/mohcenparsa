@@ -1,4 +1,4 @@
-<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="300" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#667eea;stop-opacity:1">
@@ -33,31 +33,31 @@
   </defs>
 
   <!-- Background -->
-  <rect width="100%" height="300" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="#0d1117"/>
   
   <!-- Animated pattern background -->
-  <rect width="100%" height="300" fill="url(#cubePattern)" opacity="0.4"/>
+  <rect width="1200" height="300" fill="url(#cubePattern)" opacity="0.4"/>
 
   <!-- Floating particles -->
-  <circle cx="10%" cy="20%" r="2" fill="#00d4ff" opacity="0.6">
-    <animate attributeName="cy" values="20%;80%;20%" dur="8s" repeatCount="indefinite"/>
+  <circle cx="120" cy="60" r="2" fill="#00d4ff" opacity="0.6">
+    <animate attributeName="cy" values="60;240;60" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0.2;0.6" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="85%" cy="70%" r="3" fill="#667eea" opacity="0.5">
-    <animate attributeName="cy" values="70%;30%;70%" dur="10s" repeatCount="indefinite"/>
+  <circle cx="1020" cy="210" r="3" fill="#667eea" opacity="0.5">
+    <animate attributeName="cy" values="210;90;210" dur="10s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0.8;0.5" dur="10s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="30%" cy="80%" r="2.5" fill="#764ba2" opacity="0.4">
-    <animate attributeName="cy" values="80%;40%;80%" dur="12s" repeatCount="indefinite"/>
+  <circle cx="360" cy="240" r="2.5" fill="#764ba2" opacity="0.4">
+    <animate attributeName="cy" values="240;120;240" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;0.7;0.4" dur="12s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="70%" cy="25%" r="2" fill="#00d4ff" opacity="0.5">
-    <animate attributeName="cy" values="25%;75%;25%" dur="9s" repeatCount="indefinite"/>
+  <circle cx="840" cy="75" r="2" fill="#00d4ff" opacity="0.5">
+    <animate attributeName="cy" values="75;225;75" dur="9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0.3;0.5" dur="9s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Ethereum symbol (stylized) -->
-  <g transform="translate(50, 40)" opacity="0.15">
+  <!-- Ethereum symbol (stylized) - left side -->
+  <g transform="translate(100, 40)" opacity="0.15">
     <path d="M0,0 L-15,25 L0,35 L15,25 Z" fill="url(#gradient1)">
       <animateTransform
         attributeName="transform"
@@ -77,32 +77,32 @@
   </g>
 
   <!-- Main title -->
-  <text x="50%" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#gradient1)" text-anchor="middle">
+  <text x="600" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#gradient1)" text-anchor="middle">
     MOHCEN PARSA
     <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
   </text>
 
   <!-- Subtitle with typing effect simulation -->
-  <text x="50%" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#00d4ff" text-anchor="middle" opacity="0.9">
+  <text x="600" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#00d4ff" text-anchor="middle" opacity="0.9">
     Blockchain Developer
     <animate attributeName="opacity" values="0;0.9" begin="0.5s" dur="1s" fill="freeze"/>
   </text>
 
   <!-- Tagline -->
-  <text x="50%" y="190" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">
+  <text x="600" y="190" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8b949e" text-anchor="middle">
     Full-Stack Web2 &amp; Web3 Developer | Ethereum &amp; Solidity Expert
     <animate attributeName="opacity" values="0;1" begin="1s" dur="1s" fill="freeze"/>
   </text>
 
   <!-- Decorative line -->
-  <line x1="30%" y1="210" x2="70%" y2="210" stroke="url(#gradient1)" stroke-width="2" opacity="0">
+  <line x1="600" y1="210" x2="600" y2="210" stroke="url(#gradient1)" stroke-width="2" opacity="0">
     <animate attributeName="opacity" values="0;0.6" begin="1.5s" dur="1s" fill="freeze"/>
-    <animate attributeName="x1" values="50%;30%" begin="1.5s" dur="1s" fill="freeze"/>
-    <animate attributeName="x2" values="50%;70%" begin="1.5s" dur="1s" fill="freeze"/>
+    <animate attributeName="x1" values="600;360" begin="1.5s" dur="1s" fill="freeze"/>
+    <animate attributeName="x2" values="600;840" begin="1.5s" dur="1s" fill="freeze"/>
   </line>
 
-  <!-- Smart Contract Icon -->
-  <g transform="translate(920, 40)" opacity="0.15">
+  <!-- Smart Contract Icon - right side -->
+  <g transform="translate(1060, 40)" opacity="0.15">
     <rect x="0" y="0" width="40" height="50" rx="5" fill="none" stroke="url(#gradient1)" stroke-width="2">
       <animateTransform
         attributeName="transform"
@@ -117,5 +117,5 @@
   </g>
 
   <!-- Bottom accent -->
-  <rect x="0" y="295" width="100%" height="5" fill="url(#gradient1)" opacity="0.3"/>
+  <rect x="0" y="295" width="1200" height="5" fill="url(#gradient1)" opacity="0.3"/>
 </svg>

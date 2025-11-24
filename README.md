@@ -313,6 +313,110 @@ const mohcenParsa = {
 
 ### 💜 Thanks for visiting! Let's build the decentralized future together.
 
-<a href="https://app.daily.dev/mohcen-parsa"><img src="https://github.com/mohcenparsa/mohcenparsa/blob/main/devcard.svg" width="300" alt="Mohcen Parsa's Dev Card"/></a>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 📈 Quick Stats
+
+```text
+🔥 Streak: Building every day
+💻 Focus: Smart Contracts & DeFi
+🌍 Location: Open to remote opportunities
+📚 Currently Learning: Advanced Solidity Patterns
+🎯 2024 Goal: Contribute to major DeFi protocols
+```
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohcenparsa/mohcenparsa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohcenparsa/mohcenparsa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohcenparsa/mohcenparsa/output/github-contribution-grid-snake.svg">
+</picture>
+
+### ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```text
+Solidity     12 hrs 30 mins  ████████████░░░░░  45.2%
+TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░  29.8%
+JavaScript   4 hrs 20 mins   ████░░░░░░░░░░░░░  15.7%
+Markdown     1 hr 30 mins    █░░░░░░░░░░░░░░░░   5.4%
+Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░   3.9%
+```
+
+<!--END_SECTION:waka-->
+
+### 💰 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mohcenparsa">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://github.com/sponsors/mohcenparsa">
+    <img src="https://img.shields.io/badge/Sponsor-667eea?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <br>
+  <code>0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb</code>
+</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+
+### 🎴 Developer Card
+
+<div align="center">
+  <a href="https://app.daily.dev/mohcen-parsa">
+    <img src="https://github.com/mohcenparsa/mohcenparsa/blob/main/devcard.svg" width="356" alt="Mohcen Parsa's Dev Card"/>
+  </a>
+</div>
+
+### 🌟 GitHub Highlights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohcenparsa&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+### 🎖️ Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@mohcenparsa">
+    <img src="https://holopin.me/mohcenparsa" alt="Holopin Badges"/>
+  </a>
+</div>
+
+### 📊 Detailed Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohcenparsa&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=00d4ff&border_color=667eea&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+    </td>
+
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🔗 Quick Links
+
+[Portfolio](https://mohcen.com) • [Blog](https://mohcen.com/blog) • [GitHub](https://github.com/mohcenparsa) • [LinkedIn](https://linkedin.com/in/mohcenparsa) • [Twitter](https://twitter.com/mohcenparsa)
+
+---
+
+<sub>⭐ From [mohcenparsa](https://github.com/mohcenparsa) with 💜</sub>
+
+![Wave](https://raw.githubusercontent.com/mohcenparsa/mohcenparsa/output/github-contribution-grid-snake-dark.svg)
 
 </div>
